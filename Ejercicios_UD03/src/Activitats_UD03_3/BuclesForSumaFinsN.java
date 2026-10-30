@@ -13,6 +13,7 @@ public class BuclesForSumaFinsN {
             suma += i;
         }
         System.out.println("El resultat de la suma de 1 a " + numero + " es: " + suma);
+        sc.close();
     }
 
 }

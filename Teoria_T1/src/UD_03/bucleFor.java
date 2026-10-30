@@ -53,16 +53,33 @@ public class bucleFor {
 	
 //		-------------------   for(;;) { [Aixo es l'unic que fa falta per un For] --------------------
 	
-		int index = 1;
-	
-		for(;index <=5;) {
-			System.out.println("index: " + index);			
-			index++;
-		
-		}
+//		  int index = 1;
+//	
+//		  for(;index <=5;) {
+//		 	System.out.println("index: " + index);			
+//		  	index++;
+//		
+//		  }
 //		System.out.println("index: " + index);
+
+		//CONTINUE: SALTA LA INTERACCIO ACTUAL
+		
+//		int i = 0;
+
+//		for(i = 0; i <= 10; i++){
+//			if (i %2 != 0) continue;
+//			System.out.println("i:" + i);
+//		}
+			
+//		while(i < 10) {
+//			i++;
+//			if( i == 5) continue;
+//			System.out.println("i: " + i );
+//		
+//		
+//		}
+		
 		
 	}
-	
 
 }

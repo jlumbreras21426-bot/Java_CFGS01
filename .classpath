@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="Activitats_UD02_9/" kind="src" path="Ejercicios_UD01&amp;UD02/src"/>
+	<classpathentry kind="src" path="Ejercicios_UD01&amp;UD02/src/Activitats_UD02_9"/>
+	<classpathentry kind="src" path="Ejercicios_UD03/src"/>
+	<classpathentry kind="src" path="Examen1/src"/>
+	<classpathentry kind="src" path="Teoria_T1/src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

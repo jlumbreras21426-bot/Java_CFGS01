@@ -14,6 +14,7 @@ public class BuclesForTaulaMultiplicar {
             int resultat = numero * i;
             System.out.println(numero + " x " + i + " = " + resultat);
         }
+        sc.close();
     }
 
 }

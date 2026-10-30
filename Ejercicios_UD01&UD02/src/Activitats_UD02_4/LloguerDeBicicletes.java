@@ -31,7 +31,6 @@ public class LloguerDeBicicletes {
             suplementElectrica = 0;
         } else {
             System.out.println("ERROR!! El tipus ha de ser Normal o Electrica.");
-            return; //aixo fa que el codi es talli si succeeix aixó, aixi que si hi ha error el codi no continua
         }
 
         int suplementAssegurança = 0;
@@ -41,7 +40,6 @@ public class LloguerDeBicicletes {
             suplementAssegurança = 0;
         } else {
             System.out.println("ERROR!! L'assegurança ha de ser SI o NO.");
-            return; //aixo fa que el codi es talli si succeeix aixó, aixi que si hi ha error el codi no continua
         }
 
         int preuFinal = preuBase + suplementElectrica + suplementAssegurança;

@@ -19,6 +19,7 @@ public class BucleForNFactorial0_12 {
         } else {
             System.out.println("Error: introdueix un número entre 0 i 12.");
         }
+        sc.close();
     }
 
 }

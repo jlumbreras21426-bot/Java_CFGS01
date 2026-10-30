@@ -1,7 +1,5 @@
 package UD_03;
 
-
-
 public class Bucle500 {
 	public static void main(String[] args) {
 		long contador500 = 0;
