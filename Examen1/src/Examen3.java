@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Examen3 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner (System.in);
 		System.out.println("[Tria una aposta] \n"
 				+ "[PARELL\t\t | \t PER SELECCIONAR AQUESTA APOSTA MARCA 1] \n"

@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Examen4 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		System.out.println("Traductor de Idiomas \n"); //M'he equivocat ho he començat en castella, ara es un traductor de castella a altres idiomes
 
 		String Paraula1 = "Espejo";

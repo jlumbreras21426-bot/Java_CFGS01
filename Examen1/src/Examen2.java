@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class Examen2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner (System.in);
 		System.out.println("Quina edat tens??");
 		int edat = sc.nextInt();//Demanam per Scanner la Edat, domes aceptam valors int (enters)
